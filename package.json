@@ -1,9 +1,9 @@
 {
-  "name": "vuepress",
-  "version": "1.0.0",
-  "repository": "https://github.com/capriosa/vuepress-deploy",
-  "description": "Starter template for a VuePress site",
-  "author": "Meinolf Droste <mdwp.post@gmail.com>",
+  "name": "staticvue",
+  "version": "0.1.1",
+  "repository": "https://github.com/alexwelcing/staticvue",
+  "description": "VuePress template from Meinolf Droste deployed with Netlify CMS",
+  "author": "Alex Welcing <aw@atrispina.com>",
   "license": "MIT",
   "scripts": {
     "dev": "vuepress dev",

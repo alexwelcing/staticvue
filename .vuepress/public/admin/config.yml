@@ -1,7 +1,7 @@
 backend:
   name: github
-  repo: capriosa/vuepress-deploy
-  branch: master
+  repo: alexwelcing/staticvue
+  branch: main
 
 public_folder: ".vuepress/dist/"
 media_folder: ".vuepress/dist/assets/img"
@@ -15,4 +15,3 @@ collections:
     fields:
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Body", name: "body", widget: "markdown"}
-
