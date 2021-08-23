@@ -3,12 +3,4 @@ title: Progressive Web Apps
 ---
 # Progressive Web Apps
 
-## Anforderungen
-
-## Entwicklung einer PWA
-
-## Wie funktioniert eine PWA?
-
-## Vorteile einer PWA
-
-## PWA testen
+Install service workers in the browser to deliver interactivity even when connectivity is disrupted.
